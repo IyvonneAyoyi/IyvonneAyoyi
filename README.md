@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Iyvonne Anne Ayoyi!
+# 👋 Hello, I'm Iyvonne Anne Ayoyi!
 
 🎓 **Junior Frontend Developer** | 🌍 **Geospatial Enthusiast** | 📈 **Lifelong Learner**
 
