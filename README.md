@@ -23,9 +23,10 @@ I believe in practical learning and sharing my progress.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📫 How to Reach Me
-- 💼 [LinkedIn](linkedin.com/in/iyvonne-ayoyi-a265192a9)
-- 📧 [Email](iyvonneayoyi@gmail.com)
+## How to Reach Me
+
+- LinkedIn: [Visit my profile](https://www.linkedin.com/in/iyvonne-ayoyi-a265192a9)
+- Email: [iyvonneayoyi@gmail.com](mailto:iyvonneayoyi@gmail.com)
 
 > ✨ “The expert in anything was once a beginner” — Helen Hayes
 
